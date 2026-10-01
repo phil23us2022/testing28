@@ -1,7 +1,0 @@
-{
-  "version": 1,
-  "metadata": {
-    "appmode": "python-streamlit",
-    "entrypoint": "streamlit_app.py"
-  }
-}
