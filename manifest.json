@@ -20,7 +20,7 @@
   },
   "files": {
     "requirements.txt": {
-      "checksum": "65b7ccfbb6c05c9222ac71ebec5b2131"
+      "checksum": "c2c8687124337ffa9c9e35cca80339cf"
     },
     ".python-version": {
       "checksum": "9439a4c09dedf9b96fe8e9940cf13488"
@@ -33,9 +33,6 @@
     },
     "All Customer Data Pull_8.22.2026_R4.xlsx": {
       "checksum": "329cee218a6f1a9299d719238b782beb"
-    },
-    "BCA Contract Delivery Data2_backup.twbx": {
-      "checksum": "ebd8da1ffca2d9d09e211e72a900eb42"
     },
     "Book1.xlsx": {
       "checksum": "a1d03343ea72eedab514623bf90bdda3"
@@ -54,9 +51,6 @@
     },
     "DISCUSSION WEEK 2.docx": {
       "checksum": "985a208750cd69f18467408b72badced"
-    },
-    "Endurance AG QA Platform_Presentation.pptx": {
-      "checksum": "118985d9a43fa7866eeb02218928193f"
     },
     "Felipe Munoz_Resume _2026.docx": {
       "checksum": "b87bf45130977caebaf6e1096b47340c"
@@ -79,15 +73,6 @@
     "NSCAcceleratorFellowshipDisclaimer_Munoz.pdf": {
       "checksum": "f5dcd2c718bcfc80bd4478eff6e8c172"
     },
-    "Risk Viewer.twbx": {
-      "checksum": "f47a00afabde885329aebe8da7b63a10"
-    },
-    "SCM 502 Certificate Module 7 Sustainability Study Guide-1.pdf": {
-      "checksum": "ab89a98838e173adfa9b513395abcb27"
-    },
-    "SCMR_Nov_2011_Sustainability_is_Free_The_Case_for_Doing_The_Right_ThingX218.pdf": {
-      "checksum": "a3681051f2302744aba4cfa295fa3eb8"
-    },
     "SSR_TSRPT_Munoz.pdf": {
       "checksum": "2cd7b488d4900c74a25420d722469730"
     },
@@ -108,9 +93,6 @@
     },
     "Slide 1 Hello.docx": {
       "checksum": "acab4534f2ffbc20cdb78c07bdbb85c1"
-    },
-    "active_users_delete_permissions.csv": {
-      "checksum": "61fa900a34176cd789a2c0ce726d2380"
     },
     "app.py": {
       "checksum": "53c040fae9969b1c0d779141ee505feb"
@@ -163,17 +145,8 @@
     "email.xlsx": {
       "checksum": "6b2123c3a41dee4dd098c2d8f1ae4d42"
     },
-    "emails+ (Multiple Connections).hyper": {
-      "checksum": "c044fe802f3cc4527f17a72465bd044d"
-    },
-    "extract.csv": {
-      "checksum": "2763480e7882e3c98fcf84f2b4cfbc51"
-    },
     "extract_apr2.csv": {
       "checksum": "05e9aafd7026b5049cbdff5070441917"
-    },
-    "extract_opp.csv": {
-      "checksum": "2763480e7882e3c98fcf84f2b4cfbc51"
     },
     "extract_opp1.csv": {
       "checksum": "1931b5e63f6804f89ca7110e19c847cc"
@@ -193,9 +166,6 @@
     "full1.py": {
       "checksum": "3e678a9573b44bfbf0154e3fe18842b6"
     },
-    "fw9_Munoz.pdf": {
-      "checksum": "421846eb42a4c220be040b4c250592f3"
-    },
     "help.py": {
       "checksum": "357eca7107ecb38a2299453fd0be4fae"
     },
@@ -210,12 +180,6 @@
     },
     "mask_backup_1789418800.json": {
       "checksum": "2a90e19fec54a385b13622c901c59376"
-    },
-    "mask_backup_1789418947.json": {
-      "checksum": "7e678689ab0e51da554303a9cd919937"
-    },
-    "mask_backup_1789419220.json": {
-      "checksum": "4efe4af4cb748de2fa8f16a819271129"
     },
     "menumap.svg": {
       "checksum": "9a8db787afc031ef365e236c3c8d5f90"
